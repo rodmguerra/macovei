@@ -22,13 +22,14 @@ encycloApp.controller('encycloController', function ($scope, $http) {
 
     var goToPage = function (page) {
         $scope.page = page;
-        $scope.image = "image/000" + $scope.page + ".png";
+        var paddedPage = ("0000" + page).substr(-4,4);
+        $scope.image = "image/" + paddedPage + ".png";
     }
 
     $scope.changeWord = function () {
         var i = 1;
         for (i = 1; i < $scope.summary.length; i++) {
-            if($scope.summary[i] > $scope.word) {
+            if($scope.summary[i].toLowerCase() > $scope.word.toLowerCase()) {
                 break;
             }
         }
