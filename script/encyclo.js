@@ -29,7 +29,7 @@ encycloApp.controller('encycloController', function ($scope, $http) {
     $scope.changeWord = function () {
         var i = 1;
         for (i = 1; i < $scope.summary.length; i++) {
-            if($scope.summary[i].toLowerCase() > $scope.word.toLowerCase()) {
+            if($scope.summary[i].toLowerCase().trim() > $scope.word.toLowerCase().trim()) {
                 break;
             }
         }
