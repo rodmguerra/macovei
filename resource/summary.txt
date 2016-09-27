@@ -150,8 +150,8 @@ ballerina
 balsaminaceas
 bancabile
 bandage
-banda (I)
 baniomaria
+baobab
 barbaric
 barologia
 barrillero
@@ -206,6 +206,8 @@ camerada
 cammino
 campaniol
 can
+canasta
+candide
 cannelar
 canonico
 canton
@@ -216,8 +218,6 @@ capsula
 carapace
 carburar
 cardinal
-candide
-canasta
 cargate
 carlista
 caronia
@@ -332,7 +332,7 @@ coreopsis
 cornice (II)
 coronopo
 correctional
-coros
+corros
 cortesia
 cosina
 cossino
@@ -422,7 +422,7 @@ dispeciamento
 displumar
 dispulverar
 dissentimento
-disoldar
+dissoldar
 distemperar
 distort
 disveloppar
@@ -610,7 +610,7 @@ guarnir
 guida
 gummifere
 gutturalisar
-ginecolatria
+gynecolatria
 habilitar
 hachaturar
 hallucinogeno
@@ -625,7 +625,7 @@ hemiptero
 hemostatica
 heptagonal
 herbose
-Hemes
+Hermes
 herpetiforme
 heterocyclic
 heterozygote
@@ -851,7 +851,7 @@ media
 medicastro
 mediocre
 mega
-mecharista
+melamina
 melinite
 melodic
 membrate
@@ -868,7 +868,7 @@ mesurate
 metallochimia
 metaphase
 meteorgramma
-metyleno
+methyleno
 metrologia
 micca
 microcrystallo
@@ -881,7 +881,7 @@ miniaturar
 minitrip
 minutar
 misanthropia
-isoneismo
+misoneismo
 mithridarismo
 mm
 mocar
@@ -915,7 +915,7 @@ musicotheca
 mutationista
 myceniano
 myosuro
-mydtic
+mystic
 na
 naphthaleno
 nare
@@ -1023,8 +1023,8 @@ parterre
 particular
 partitor
 paschal
-passionate
 passarella
+passionate
 pastinaca
 patchouli
 pathia
@@ -1327,8 +1327,8 @@ sigillographia
 silao
 siliciura
 similabile
-sincipite
 simplistic
+sincipite
 sinominate
 sirop
 sixtin
@@ -1361,8 +1361,8 @@ sput
 stabilisator
 stalagmite
 stannar
-statolitho
 statica
+statolitho
 stear
 stenodactylographo
 stereo
@@ -1425,7 +1425,7 @@ taxista
 technicisation
 teflon
 telefilm
-teologic
+teleologic
 telescapho
 temerari
 tempo
@@ -1471,7 +1471,7 @@ transfiguration
 transiger
 translucide
 transpasso
-transilvan
+transsilvan
 trapeziforme
 trave
 tremulante
